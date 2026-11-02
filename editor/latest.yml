@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: https://github.com/Baliiano/baliz-releases/releases/download/editor-v0.1.0/Baliz-Editor-Setup-0.1.0.exe
+    sha512: n5CXaKFkTXULJRGoisd6GiswL1LWd7OT5uG4qDSbiDTgQpEgZva0TjX1jotBCRtUaJPJApWDyRuRksESzm/9tw==
+    size: 286119371
+path: https://github.com/Baliiano/baliz-releases/releases/download/editor-v0.1.0/Baliz-Editor-Setup-0.1.0.exe
+sha512: n5CXaKFkTXULJRGoisd6GiswL1LWd7OT5uG4qDSbiDTgQpEgZva0TjX1jotBCRtUaJPJApWDyRuRksESzm/9tw==
+releaseDate: '2026-11-02T07:15:36.716Z'
